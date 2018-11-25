@@ -24,6 +24,7 @@ class Artist
     # self.songs << Song.new(song_name)
     new_song = Song.new(song_name)
     new_song.artist = self
+    self.songs << new_song
   end
   
 end
