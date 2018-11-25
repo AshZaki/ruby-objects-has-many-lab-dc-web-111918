@@ -11,5 +11,10 @@ class Song
     @@all
   end
   
+  def artist_name
+    @@all.find do |artist|
+      
+    
+  end
   
 end
