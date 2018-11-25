@@ -16,6 +16,6 @@ class Author
     @posts << title
   end
   
-  
+  def 
   
 end
